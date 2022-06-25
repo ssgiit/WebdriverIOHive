@@ -102,7 +102,7 @@ npx wdio
 ## Different Frameworks
 ### The WDIO runner currently supports [Mocha](https://mochajs.org/), [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).
 
-##Assertions use in WebdriverIO
+## Assertions use in WebdriverIO
 
 ### WebdriverIO Assertions
 

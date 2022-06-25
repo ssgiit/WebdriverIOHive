@@ -1,5 +1,5 @@
 # Webdriverio
-##What is WebdriverIO? 
+## What is WebdriverIO? 
 
 **WebdriverIO** is a popular JavaScript test automation framework that runs on Node.js. 
 It allows us to automate any application written with modern web frameworks such as React, Angular, Polymer or Vue.js as well as native mobile applications for Android and iOS.
@@ -37,8 +37,8 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 * Conclusion
 * Reference
 
-##Prerequisite
-###The only requirement is that you need to have Node.js installed
+## Prerequisite
+### The only requirement is that you need to have Node.js installed
 * Minimum v12.16.1 is required to use WebdriverIO v6
 
 To verify that you have successfully installed Node.js, run the following command
@@ -49,7 +49,7 @@ node -v
 
 [Click here to get Node.js](https://nodejs.org/en/download/)
 
-###Node Package Manager(npm)
+### Node Package Manager(npm)
 We can get **npm** with Node.js 
 
 To verify that you have successfully installed npm, run the following command
@@ -58,7 +58,7 @@ To verify that you have successfully installed npm, run the following command
 npm -v
 ```
 
-###Integration Development Evironment(IDE)
+### Integration Development Evironment(IDE)
 
 * VScode [(Click here)](https://code.visualstudio.com/)
 * atom [(Click here)](https://atom.io/)
@@ -66,7 +66,7 @@ npm -v
 * Intellege [(Click here)](https://www.jetbrains.com/idea/download/#section=windows)
 
 
-###Language require for WebdriverIO Framework
+### Language require for WebdriverIO Framework
 
 * we need javaScript & typeScript
     * To get more information about javascript & typeScript use the following links:
@@ -75,7 +75,7 @@ npm -v
 
       [Click here for typeScripts](https://www.typescriptlang.org/docs/)
 
-##SetUp & Resources
+## SetUp & Resources
 
 To create package file use following commond in project directory
 
@@ -99,12 +99,12 @@ npx wdio
 ![npx wdio](./images/npxwdio.gif)
 
 
-##Different Frameworks
-###The WDIO runner currently supports [Mocha](https://mochajs.org/), [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).
+## Different Frameworks
+### The WDIO runner currently supports [Mocha](https://mochajs.org/), [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).
 
 ##Assertions use in WebdriverIO
 
-###WebdriverIO Assertions
+### WebdriverIO Assertions
 
 We can get info about WebdriverIO Assertions types some of them Migrated from **Chai**
 
@@ -114,7 +114,7 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 
 * [Chai Assertions](https://www.chaijs.com/api/assert/)
 
-##CI/CD Integration
+## CI/CD Integration
 
 * WebdriverIO offers a tight integration to CI systems like **Jenkins**.
   To get more information about **Jenkins** integration [click here](https://webdriver.io/docs/jenkins/).
@@ -122,9 +122,9 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 * WebdriverIO can also integrate with **Docker** container for the more information [click here](https://webdriver.io/docs/wdio-docker-service/).
 
 
-##WebdriverIO vs Protractor
+## WebdriverIO vs Protractor
 
-###**WebdriverIO:**
+### **WebdriverIO:**
 
 * There are built-in selectors for React.
 * Built-in synchronization of code execution.
@@ -132,16 +132,16 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 * A small number of waiters out-of-the-box.
 * Good code readability.
 
-###**Protractor:**
+### **Protractor:**
 
 * There are built-in selectors for Angular and a mechanism of waiting for the page to load and render.
 * Requires to use async/await to synchronize the code execution.
 * A large number of waiters out-of-the-box.
 * Usage of Lazy Elements.
 
-##Advantages & Disadvantages
+## Advantages & Disadvantages
 
-###Advantages:
+### Advantages:
 
 * Readable, simple syntax
 * Easy to start	
@@ -150,16 +150,16 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 * Works with many assertion libraries and testing frameworks (Jasmine, Mocha, Cucumber)	
 * Tests on desktop as well as on mobile	
 
-###Disadvantages:
+### Disadvantages:
 * Current wdio-expect is not applicable to API tests
 * Assertions are problematic at the beginning 
 * Debugging possible only through WDIO task runner
 
-##Conclusion
+## Conclusion
 
 * Overall, WebdriverIO makes it easy to set up and configure our tests, and also provides a clean and readable syntax for writing tests. WebdriverIO also provides detailed documentation on all of its APIs as well as a step-by-step guide for integrating the tests with various services and reporters.
 
-##Reference
+## Reference
 
 * [WebdriverIO Official documents](https://webdriver.io/)
 * [Udemy Course](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)

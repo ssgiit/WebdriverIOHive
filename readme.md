@@ -1,4 +1,4 @@
-# Webdriverio
+# WebdriverIO
 ##What is WebdriverIO? 
 
 **WebdriverIO** is a popular JavaScript test automation framework that runs on Node.js. 
@@ -15,15 +15,6 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 
 - [WebdriverIO](#webdriverio)
 - [What will be discuss in this course?](#what-will-be-discuss-in-this-course)
-  - [Prerequisite](#prerequisite)
-  - [SetUp & Resources](#setup--resources)
-  - [Different Frameworks](#different-frameworks)
-  - [Assertions use in WebdriverIO](#assertions-use-in-webdriverio)
-  - [CI/CD Integration](#cicd-integration)
-  - [WebdriverIO vs Protractor](#webdriverio-vs-protractor)
-  - [Advantages & Disadvantages](#advantages--disadvantages)
-  - [Conclusion](#conclusion)
-  - [Reference](#reference)
 
 
 # What will be discuss in this course?

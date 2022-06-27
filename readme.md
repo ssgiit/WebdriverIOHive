@@ -172,3 +172,5 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 
 * [WebdriverIO Official documents](https://webdriver.io/)
 * [Udemy Course](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)
+* [javaScript](https://javascript.info/)
+* [TypeScript](https://www.w3schools.com/typescript/index.php)

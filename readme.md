@@ -1,3 +1,4 @@
+![webdriveriologo](./images/webdriveriologo.png)
 # Webdriverio
 ## What is WebdriverIO? 
 

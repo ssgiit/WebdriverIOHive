@@ -46,7 +46,7 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 * WebdriverIO vs Protractor
 * Advantages & Disadvantages
 * Conclusion
-* Reference
+* References
 
 ## Prerequisite
 
@@ -72,10 +72,10 @@ npm -v
 
 ### Integration Development Evironment(IDE)
 
-* VScode [(Click Here)](https://code.visualstudio.com/)
-* atom [(Click Here)](https://atom.io/)
-* Eclipse [(Click Here)](https://code.visualstudio.com/)
-* Intellege [(Click Here)](https://www.jetbrains.com/idea/download/#section=windows)
+* VS Code [(Click Here To Download)](https://code.visualstudio.com/)
+* atom [(Click Here To Download)](https://atom.io/)
+* Eclipse [(Click Here To Download)](https://code.visualstudio.com/)
+* IntelliJ [(Click Here To Download)](https://www.jetbrains.com/idea/download/#section=windows)
 
 ### Language require for WebdriverIO Framework
 

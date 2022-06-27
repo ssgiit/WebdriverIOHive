@@ -1,5 +1,7 @@
-# Webdriverio
-##What is WebdriverIO? 
+![logo](./images/logo.png)
+
+# WebdriverIO
+## What is WebdriverIO? 
 
 **WebdriverIO** is a popular JavaScript test automation framework that runs on Node.js. 
 It allows us to automate any application written with modern web frameworks such as React, Angular, Polymer or Vue.js as well as native mobile applications for Android and iOS.
@@ -21,7 +23,7 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
     - [Language require for WebdriverIO Framework](#language-require-for-webdriverio-framework)
   - [SetUp & Resources](#setup--resources)
   - [Different Frameworks](#different-frameworks)
-    - [The WDIO runner currently supports Mocha, [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).](#the-wdio-runner-currently-supports-mocha-jasmine-and-cucumber)
+    - [The WDIO runner currently supports Mocha, Jasmine, and Cucumber](#the-wdio-runner-currently-supports-mocha-jasmine-and-cucumber)
   - [Assertions use in WebdriverIO](#assertions-use-in-webdriverio)
     - [WebdriverIO Assertions](#webdriverio-assertions)
   - [CI/CD Integration](#cicd-integration)
@@ -44,9 +46,10 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 * WebdriverIO vs Protractor
 * Advantages & Disadvantages
 * Conclusion
-* Reference
+* References
 
 ## Prerequisite
+
 ### The only requirement is that you need to have Node.js installed
 * Minimum v12.16.1 is required to use WebdriverIO v6
 
@@ -58,10 +61,10 @@ node -v
 
 [Click here to get Node.js](https://nodejs.org/en/download/)
 
-###Node Package Manager(npm)
+### Node Package Manager(npm)
 We can get **npm** with Node.js 
 
-To verify that you have successfully installed npm, run the following command
+To verify that we have successfully installed npm, run the following command
 
 ```shell
 npm -v
@@ -69,11 +72,10 @@ npm -v
 
 ### Integration Development Evironment(IDE)
 
-* VScode [(Click here)](https://code.visualstudio.com/)
-* atom [(Click here)](https://atom.io/)
-* Eclipse [(Click here)](https://code.visualstudio.com/)
-* Intellege [(Click here)](https://www.jetbrains.com/idea/download/#section=windows)
-
+* VS Code [(Click Here To Download)](https://code.visualstudio.com/)
+* atom [(Click Here To Download)](https://atom.io/)
+* Eclipse [(Click Here To Download)](https://code.visualstudio.com/)
+* IntelliJ [(Click Here To Download)](https://www.jetbrains.com/idea/download/#section=windows)
 
 ### Language require for WebdriverIO Framework
 
@@ -86,7 +88,7 @@ npm -v
 
 ## SetUp & Resources
 
-To create package file use following commond in project directory
+* To create package file use following commond in project directory
 
 ```shell
 npm init 
@@ -99,7 +101,7 @@ npm install webdriverio --save-dev
 ```
 
 
-To create WebdriverIO CLI tool & run configuration wizard that's help us to configure our test suit 
+* To create WebdriverIO CLI tool & run configuration wizard that's help us to configure our test suit 
 
 ```shell
 npx wdio
@@ -109,6 +111,7 @@ npx wdio
 
 
 ## Different Frameworks
+
 ### The WDIO runner currently supports [Mocha](https://mochajs.org/), [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).
 
 ## Assertions use in WebdriverIO
@@ -126,9 +129,9 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 ## CI/CD Integration
 
 * WebdriverIO offers a tight integration to CI systems like **Jenkins**.
-  To get more information about **Jenkins** integration [click here](https://webdriver.io/docs/jenkins/).
+  To get more information about **Jenkins** integration [click Here](https://webdriver.io/docs/jenkins/).
 
-* WebdriverIO can also integrate with **Docker** container for the more information [click here](https://webdriver.io/docs/wdio-docker-service/).
+* WebdriverIO can also integrate with **Docker** container for the more information [click Here](https://webdriver.io/docs/wdio-docker-service/).
 
 
 ## WebdriverIO vs Protractor
@@ -172,20 +175,6 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 
 * [WebdriverIO Official documents](https://webdriver.io/)
 * [Udemy Course](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [JavaScript Tutorial](https://www.w3schools.com/js/)
+* [TypeScript Tutorial](https://www.w3schools.com/typescript/index.php)
 

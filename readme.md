@@ -1,19 +1,5 @@
-# WebdriverIO
-
-- [WebdriverIO](#webdriverio)
-- [What will be discuss in this course?](#what-will-be-discuss-in-this-course)
-  - [Prerequisite](#prerequisite)
-  - [SetUp & Resources](#setup--resources)
-  - [Different Frameworks](#different-frameworks)
-  - [Assertions use in WebdriverIO](#assertions-use-in-webdriverio)
-  - [CI/CD Integration](#cicd-integration)
-  - [WebdriverIO vs Protractor](#webdriverio-vs-protractor)
-  - [Advantages & Disadvantages](#advantages--disadvantages)
-  - [Conclusion](#conclusion)
-  - [Reference](#reference)
-  
-  
-## What is WebdriverIO? 
+# Webdriverio
+##What is WebdriverIO? 
 
 **WebdriverIO** is a popular JavaScript test automation framework that runs on Node.js. 
 It allows us to automate any application written with modern web frameworks such as React, Angular, Polymer or Vue.js as well as native mobile applications for Android and iOS.
@@ -26,6 +12,27 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 * Then, the driver will trigger an event in the browser to take the necessary action provided via the HTTP request.
 
 ![Quick Overview](./images/webdriverio.png)
+
+- [Webdriverio](#webdriverio)
+- [What will be discuss in this course?](#what-will-be-discuss-in-this-course)
+  - [Prerequisite](#prerequisite)
+    - [The only requirement is that you need to have Node.js installed](#the-only-requirement-is-that-you-need-to-have-nodejs-installed)
+    - [Integration Development Evironment(IDE)](#integration-development-evironmentide)
+    - [Language require for WebdriverIO Framework](#language-require-for-webdriverio-framework)
+  - [SetUp & Resources](#setup--resources)
+  - [Different Frameworks](#different-frameworks)
+    - [The WDIO runner currently supports Mocha, [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).](#the-wdio-runner-currently-supports-mocha-jasmine-and-cucumber)
+  - [Assertions use in WebdriverIO](#assertions-use-in-webdriverio)
+    - [WebdriverIO Assertions](#webdriverio-assertions)
+  - [CI/CD Integration](#cicd-integration)
+  - [WebdriverIO vs Protractor](#webdriverio-vs-protractor)
+    - [**WebdriverIO:**](#webdriverio-1)
+    - [**Protractor:**](#protractor)
+  - [Advantages & Disadvantages](#advantages--disadvantages)
+    - [Advantages:](#advantages)
+    - [Disadvantages:](#disadvantages)
+  - [Conclusion](#conclusion)
+  - [References](#references)
 
 
 # What will be discuss in this course?
@@ -51,7 +58,7 @@ node -v
 
 [Click here to get Node.js](https://nodejs.org/en/download/)
 
-### Node Package Manager(npm)
+###Node Package Manager(npm)
 We can get **npm** with Node.js 
 
 To verify that you have successfully installed npm, run the following command
@@ -161,23 +168,7 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 
 * Overall, WebdriverIO makes it easy to set up and configure our tests, and also provides a clean and readable syntax for writing tests. WebdriverIO also provides detailed documentation on all of its APIs as well as a step-by-step guide for integrating the tests with various services and reporters.
 
-## Reference
+## References
 
 * [WebdriverIO Official documents](https://webdriver.io/)
 * [Udemy Course](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

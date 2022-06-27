@@ -1,4 +1,5 @@
-![logo](/images/logo.png)
+![logo](./images/logo.png)
+
 # Webdriverio
 ## What is WebdriverIO? 
 

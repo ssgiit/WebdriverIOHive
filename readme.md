@@ -1,6 +1,6 @@
 ![logo](./images/logo.png)
 
-# Webdriverio
+# WebdriverIO
 ## What is WebdriverIO? 
 
 **WebdriverIO** is a popular JavaScript test automation framework that runs on Node.js. 
@@ -15,7 +15,7 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 
 ![Quick Overview](./images/webdriverio.png)
 
-- [Webdriverio](#webdriverio)
+- [WebdriverIO](#webdriverio)
 - [What will be discuss in this course?](#what-will-be-discuss-in-this-course)
   - [Prerequisite](#prerequisite)
     - [The only requirement is that you need to have Node.js installed](#the-only-requirement-is-that-you-need-to-have-nodejs-installed)
@@ -64,7 +64,7 @@ node -v
 ### Node Package Manager(npm)
 We can get **npm** with Node.js 
 
-To verify that you have successfully installed npm, run the following command
+To verify that we have successfully installed npm, run the following command
 
 ```shell
 npm -v

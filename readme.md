@@ -69,12 +69,10 @@ npm -v
 
 ### Integration Development Evironment(IDE)
 
-* VScode [(Click here)](https://code.visualstudio.com/)
-* atom [(Click here)](https://atom.io/)
-* Eclipse [(Click here)](https://code.visualstudio.com/)
-* Intellege [(Click here)](https://www.jetbrains.com/idea/download/#section=windows)
-
-
+* VScode [(Click Here)](https://code.visualstudio.com/)
+* atom [(Click Here)](https://atom.io/)
+* Eclipse [(Click Here)](https://code.visualstudio.com/)
+* Intellege [(Click Here)](https://www.jetbrains.com/idea/download/#section=windows)H
 ### Language require for WebdriverIO Framework
 
 * we need javaScript & typeScript

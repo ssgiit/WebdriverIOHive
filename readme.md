@@ -49,6 +49,7 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 * Reference
 
 ## Prerequisite
+
 ### The only requirement is that you need to have Node.js installed
 * Minimum v12.16.1 is required to use WebdriverIO v6
 
@@ -75,6 +76,7 @@ npm -v
 * atom [(Click Here)](https://atom.io/)
 * Eclipse [(Click Here)](https://code.visualstudio.com/)
 * Intellege [(Click Here)](https://www.jetbrains.com/idea/download/#section=windows)
+
 ### Language require for WebdriverIO Framework
 
 * we need javaScript & typeScript
@@ -109,6 +111,7 @@ npx wdio
 
 
 ## Different Frameworks
+
 ### The WDIO runner currently supports [Mocha](https://mochajs.org/), [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).
 
 ## Assertions use in WebdriverIO
@@ -172,5 +175,5 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 
 * [WebdriverIO Official documents](https://webdriver.io/)
 * [Udemy Course](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)
-* [javaScript](https://javascript.info/)
-* [TypeScript](https://www.w3schools.com/typescript/index.php)
+* [JavaScript Tutorial](https://javascript.info/)
+* [TypeScript Tutorial](https://www.w3schools.com/typescript/index.php)

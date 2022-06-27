@@ -1,5 +1,5 @@
 # Webdriverio
-##What is WebdriverIO? 
+## What is WebdriverIO? 
 
 **WebdriverIO** is a popular JavaScript test automation framework that runs on Node.js. 
 It allows us to automate any application written with modern web frameworks such as React, Angular, Polymer or Vue.js as well as native mobile applications for Android and iOS.
@@ -58,7 +58,7 @@ node -v
 
 [Click here to get Node.js](https://nodejs.org/en/download/)
 
-###Node Package Manager(npm)
+### Node Package Manager(npm)
 We can get **npm** with Node.js 
 
 To verify that you have successfully installed npm, run the following command
@@ -72,7 +72,7 @@ npm -v
 * VScode [(Click Here)](https://code.visualstudio.com/)
 * atom [(Click Here)](https://atom.io/)
 * Eclipse [(Click Here)](https://code.visualstudio.com/)
-* Intellege [(Click Here)](https://www.jetbrains.com/idea/download/#section=windows)H
+* Intellege [(Click Here)](https://www.jetbrains.com/idea/download/#section=windows)
 ### Language require for WebdriverIO Framework
 
 * we need javaScript & typeScript

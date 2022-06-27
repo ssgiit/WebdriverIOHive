@@ -109,6 +109,17 @@ npx wdio
 
 ![npx wdio](./images/npxwdio.gif)
 
+* To configure the different features available with WebdriverIO.These are the default configuration and we can change them later aswell.
+
+  * @wdio/local-runner
+  * @wdio/cli
+  * @wdio/mocha-framework
+  * @wdio/allure-reporter
+  * @wdio-chromedriver-service
+  * @wdio/spec-reporter
+
+* This command will create a **wdio.conf.js** javascript configuration file
+
 
 ## Different Frameworks
 

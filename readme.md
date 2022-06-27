@@ -15,7 +15,7 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 
 ![Quick Overview](./images/webdriverio.png)
 
-- [WebdriverIO](#webdriverio)
+- [Webdriverio](#webdriverio)
 - [What will be discuss in this course?](#what-will-be-discuss-in-this-course)
   - [Prerequisite](#prerequisite)
     - [The only requirement is that you need to have Node.js installed](#the-only-requirement-is-that-you-need-to-have-nodejs-installed)
@@ -88,7 +88,7 @@ npm -v
 
 ## SetUp & Resources
 
-To create package file use following commond in project directory
+* To create package file use following commond in project directory
 
 ```shell
 npm init 
@@ -101,7 +101,7 @@ npm install webdriverio --save-dev
 ```
 
 
-To create WebdriverIO CLI tool & run configuration wizard that's help us to configure our test suit 
+* To create WebdriverIO CLI tool & run configuration wizard that's help us to configure our test suit 
 
 ```shell
 npx wdio
@@ -129,9 +129,9 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 ## CI/CD Integration
 
 * WebdriverIO offers a tight integration to CI systems like **Jenkins**.
-  To get more information about **Jenkins** integration [click here](https://webdriver.io/docs/jenkins/).
+  To get more information about **Jenkins** integration [click Here](https://webdriver.io/docs/jenkins/).
 
-* WebdriverIO can also integrate with **Docker** container for the more information [click here](https://webdriver.io/docs/wdio-docker-service/).
+* WebdriverIO can also integrate with **Docker** container for the more information [click Here](https://webdriver.io/docs/wdio-docker-service/).
 
 
 ## WebdriverIO vs Protractor
@@ -175,5 +175,6 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 
 * [WebdriverIO Official documents](https://webdriver.io/)
 * [Udemy Course](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)
-* [JavaScript Tutorial](https://javascript.info/)
+* [JavaScript Tutorial](https://www.w3schools.com/js/)
 * [TypeScript Tutorial](https://www.w3schools.com/typescript/index.php)
+

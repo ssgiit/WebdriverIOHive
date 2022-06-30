@@ -27,7 +27,7 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
     - [Language require for WebdriverIO Framework](#language-require-for-webdriverio-framework)
   - [SetUp & Resources](#setup--resources)
   - [Different Frameworks](#different-frameworks)
-    - [The WDIO runner currently supports Mocha, [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).](#the-wdio-runner-currently-supports-mocha-jasmine-and-cucumber)
+    - [The WDIO runner currently supports Mocha, Jasmine, and Cucumber](#the-wdio-runner-currently-supports-mocha-jasmine-and-cucumber)
   - [Assertions use in WebdriverIO](#assertions-use-in-webdriverio)
     - [WebdriverIO Assertions](#webdriverio-assertions)
   - [CI/CD Integration](#cicd-integration)

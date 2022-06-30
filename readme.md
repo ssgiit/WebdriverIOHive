@@ -15,15 +15,19 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 
 ![Quick Overview](./images/webdriverio.png)
 
-- [Webdriverio](#webdriverio)
+## Table of Contents
+- [WebdriverIO](#webdriverio)
+  - [What is WebdriverIO?](#what-is-webdriverio)
+  - [Table of Contents](#table-of-contents)
 - [What will be discuss in this course?](#what-will-be-discuss-in-this-course)
   - [Prerequisite](#prerequisite)
     - [The only requirement is that you need to have Node.js installed](#the-only-requirement-is-that-you-need-to-have-nodejs-installed)
-    - [Integration Development Evironment(IDE)](#integration-development-evironmentide)
+    - [Node Package Manager(npm)](#node-package-managernpm)
+    - [Integrated Development Evironment(IDE)](#integrated-development-evironmentide)
     - [Language require for WebdriverIO Framework](#language-require-for-webdriverio-framework)
   - [SetUp & Resources](#setup--resources)
   - [Different Frameworks](#different-frameworks)
-    - [The WDIO runner currently supports Mocha, Jasmine, and Cucumber](#the-wdio-runner-currently-supports-mocha-jasmine-and-cucumber)
+    - [The WDIO runner currently supports Mocha, [Jasmine](https://jasmine.github.io/), and [Cucumber](https://cucumber.io/).](#the-wdio-runner-currently-supports-mocha-jasmine-and-cucumber)
   - [Assertions use in WebdriverIO](#assertions-use-in-webdriverio)
     - [WebdriverIO Assertions](#webdriverio-assertions)
   - [CI/CD Integration](#cicd-integration)
@@ -70,7 +74,7 @@ To verify that we have successfully installed npm, run the following command
 npm -v
 ```
 
-### Integration Development Evironment(IDE)
+### Integrated Development Evironment(IDE)
 
 * VS Code [(Click Here To Download)](https://code.visualstudio.com/)
 * atom [(Click Here To Download)](https://atom.io/)
@@ -84,7 +88,7 @@ npm -v
 
       [Click here for javaScript](https://javascript.info/)
 
-      [Click here for typeScripts](https://www.typescriptlang.org/docs/)
+      [Click here for typeScript](https://www.typescriptlang.org/docs/)
 
 ## SetUp & Resources
 

@@ -18,7 +18,6 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 ## Table of Contents
 - [WebdriverIO](#webdriverio)
   - [What is WebdriverIO?](#what-is-webdriverio)
-  - [Table of Contents](#table-of-contents)
 - [What will be discuss in this course?](#what-will-be-discuss-in-this-course)
   - [Prerequisite](#prerequisite)
     - [The only requirement is that you need to have Node.js installed](#the-only-requirement-is-that-you-need-to-have-nodejs-installed)

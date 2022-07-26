@@ -1,6 +1,6 @@
 # SECTION 2
 
-#ASSIGNMENTS
+# ASSIGNMENTS
 
 # What is spec,describe & it block?
 * Describe - A test suite begins with a call to the global Jasmine function describe with two parameters: a string and a function.
@@ -35,7 +35,7 @@ describe("A suite", function() {
 * css
 * xpath
 
-###Example
+### Example
 
 ```javscrips
 describe("A suite", function() {
@@ -49,7 +49,7 @@ describe("A suite", function() {
 
 ## WebdriverIO Assignment II 
 
-1) Include all locators in your spec(use dummy website <https://timetracker.ctepl.com/actitime/login.jsp>)
+1) Include all locators in your spec (use dummy website <https://timetracker.ctepl.com/actitime/login.jsp> )
 
 ------
 ## Introduction of Cucumber framework in WebdriverIO

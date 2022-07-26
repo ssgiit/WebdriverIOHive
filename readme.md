@@ -1,5 +1,6 @@
 ![logo](./images/logo.png)
 
+# SECTION 1
 # WebdriverIO
 ## What is WebdriverIO? 
 
@@ -37,9 +38,8 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
     - [Advantages:](#advantages)
     - [Disadvantages:](#disadvantages)
   - [Conclusion](#conclusion)
-  - [References](#references)
-
-
+  
+  
 # What will be discuss in this course?
 * Prerequisite
 * SetUp & Resources
@@ -49,7 +49,6 @@ Here’s a quick overview of what happens when we run our WebdriverIO test scrip
 * WebdriverIO vs Protractor
 * Advantages & Disadvantages
 * Conclusion
-* References
 
 ## Prerequisite
 
@@ -185,10 +184,4 @@ Detailed Information about **Chai** Assertion which are used in WebdriverIO
 
 * Overall, WebdriverIO makes it easy to set up and configure our tests, and also provides a clean and readable syntax for writing tests. WebdriverIO also provides detailed documentation on all of its APIs as well as a step-by-step guide for integrating the tests with various services and reporters.
 
-## References
-
-* [WebdriverIO Official documents](https://webdriver.io/)
-* [Udemy Course](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)
-* [JavaScript Tutorial](https://www.w3schools.com/js/)
-* [TypeScript Tutorial](https://www.w3schools.com/typescript/index.php)
 

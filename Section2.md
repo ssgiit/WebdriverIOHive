@@ -1,6 +1,6 @@
 # SECTION 2
 
-#ASSIGNMENTS
+# ASSIGNMENTS
 
 # What is spec,describe & it block?
 * Describe - A test suite begins with a call to the global Jasmine function describe with two parameters: a string and a function.

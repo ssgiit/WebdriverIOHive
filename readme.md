@@ -1,6 +1,6 @@
 ![logo](./images/logo.png)
 
-#SECTION 1
+# SECTION 1
 # WebdriverIO
 ## What is WebdriverIO? 
 

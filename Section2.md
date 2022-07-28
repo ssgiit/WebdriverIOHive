@@ -1,4 +1,4 @@
-#SECTION 2
+# SECTION 2
 
 # ASSIGNMENTS
 
@@ -7,7 +7,7 @@
 * Specs - Specs are defined by calling the global Jasmine function it, which, like describe takes a string and a function.
 * It - It Just Functions,Since describe and it blocks are functions, they can contain any executable code necessary to implement the test.
 
-```javascipt
+```javascript
 describe("A suite", function() {
   it("contains spec with an expectation", function() {
      expect(true).toBe(true);
@@ -37,7 +37,7 @@ describe("A suite", function() {
 
 ### Example
 
-```javscrips
+```javascript
 describe("A suite", function() {
   it("contains spec with an expectation", async ()=> {
      await browser.url("https://www.example.com");

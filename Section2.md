@@ -73,7 +73,6 @@ describe("A suite", function() {
             | Admin    | admin123 |
 ```
 
-## WebdriverIO Assignment III
 
 ### Introduction to step definations(for example)
 * Steps Definition file contains the actual code to execute the Test Scenario in the Features file.Cucumber finds the Step Definition file with the help of the Glue code in Cucumber Options.
@@ -83,6 +82,7 @@ Given ({......});
 When  ({.......});
 Then  ({.......});
 ```
+## WebdriverIO Assignment III
 
 1) Create your first feature file for login fuctionality (use above website)
 2) Create step defination for login feature file which is define in eariler assignment
